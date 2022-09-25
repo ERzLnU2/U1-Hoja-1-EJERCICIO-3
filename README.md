@@ -24,5 +24,5 @@ Indicar errores de código, corregir y ejecutar programa JAVA
     }
 
 
-![alt text]https://repository-images.githubusercontent.com/541168959/3fd1cafb-9fa8-4254-bdc1-bf655753fd8d)
+![alt text](https://repository-images.githubusercontent.com/541168959/3fd1cafb-9fa8-4254-bdc1-bf655753fd8d)
 
