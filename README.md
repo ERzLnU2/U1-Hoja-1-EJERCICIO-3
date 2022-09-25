@@ -1,7 +1,7 @@
 # EJERCICIO-3-Hoja-1
 Indicar errores de código, corregir y ejecutar programa JAVA
 
-
+```java
     /*
     📌 Programa que muestra el uso de los operadores aritméticos:
     */
@@ -22,7 +22,7 @@ Indicar errores de código, corregir y ejecutar programa JAVA
     System.out.printf("El valor de f1 es %f y el de f2 es %f\n",f1,f2);
     System.out.println("El resultado de f1 / f2 es " + (f1 / f2))
     }
-
+```
 
 ![alt text](https://repository-images.githubusercontent.com/541168959/3fd1cafb-9fa8-4254-bdc1-bf655753fd8d)
 
