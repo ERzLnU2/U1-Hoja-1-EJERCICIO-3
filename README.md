@@ -2,13 +2,14 @@
 Indicar errores de código, corregir y ejecutar programa JAVA
 
 
-
 /*
+
  📌 Programa que muestra el uso de los operadores aritméticos:
+ 
 */
 
 
-public class ejercicio3_Hoja1 {        
+    public class ejercicio3_Hoja1 {        
     public static void main(String[] args)  
  
     short x = 7;
